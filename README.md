@@ -4,4 +4,4 @@ A simple webpage made during the foundations course on the Odin Project. Clickin
 
 Live site: <a href="krish-sh12.github.io/odin-recipes" rel="noreferrer">Here!</a>
 
-<p>Link to assignment: https://www.theodinproject.com/lessons/foundations-recipes</p>
+<p>Link to assignment: <a href="https://www.theodinproject.com/lessons/foundations-recipes" rel="noreferrer"> Here</p>
